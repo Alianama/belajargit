@@ -5,4 +5,4 @@
 # Membuat paragraf di html
 tag untuk paragraf adalah (p)
 lokasi screnshoot hasil
-![img]screnshoot/ss1.png
+![Gambar 1](screnshoot/ss1.png)
