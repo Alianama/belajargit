@@ -1,5 +1,5 @@
 # Cara Menggunakan GIT
-## Belajar Tag HTML dan GIT dasar
+## Belajar Koneksikan Repository lokal ke Repository Github
 
 
 ### Pertama Buat akun Github dan Buat repository baru
