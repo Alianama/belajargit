@@ -15,6 +15,11 @@ Buat folder repository lokal pada komputer seperti pada gambar
 ![Gambar 3](screnshoot/ss6.png)
 Lalu klik kanan pada folder tersebut dan pilih GIT Bash here
 ![Gambar 4](screnshoot/ss7.png)
+Untuk akses awal diharuskan daftar nama dan email dengan command "git config --global user.name “nama_user” dan git config --global user.email “nama_email”
+Jika sudah lakukan clone repository github ke repository lokal dengan command git clone "URL YANG TELAH DI COPY TADI
+![Gambar 5](screnshoot/ss8.png)
+
+
 
 Screnshoot hasil
 ![Gambar 100](screnshoot/ss1.png)
